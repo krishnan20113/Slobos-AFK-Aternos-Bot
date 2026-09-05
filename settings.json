@@ -1,7 +1,7 @@
 {
   "name": "2.0",
   "bot-account": {
-    "username": "",
+    "username": "Vishnu",
     "password": "",
     "type": "online"
   },
@@ -31,9 +31,9 @@
       "repeat": false,
       "repeat-delay": ,
       "messages": [
-        "I'm a regular player",
-        "Welcome!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
