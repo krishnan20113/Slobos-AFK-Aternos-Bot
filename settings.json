@@ -1,7 +1,7 @@
 {
   "name": "2.0",
   "bot-account": {
-    "username": "raghu123",
+    "username": "Vishnu",
     "password": "",
     "type": "online"
   },
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": false,
+      "repeat": true,
       "repeat-delay": ,
       "messages": [
         "",
