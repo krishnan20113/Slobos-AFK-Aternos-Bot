@@ -28,8 +28,8 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "repeat": false,
+      "repeat-delay": ,
       "messages": [
         "I'm a regular player",
         "Welcome!",
@@ -50,7 +50,7 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 50000
     },
     "random-jump": {
       "enabled": true,
