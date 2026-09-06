@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": ,
       "messages": [
-        "Hello",
-        "Hello",
-        "Hello"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
