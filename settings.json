@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": ,
+      "repeat-delay": 120,
       "messages": [
         "",
         "",
